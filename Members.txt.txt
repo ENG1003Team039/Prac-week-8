@@ -1,7 +1,9 @@
 LIST OF MEMBERS IN TEAM 039
 
 MASON SI
-
+I am mason!
+role in project(….,….,…)
+preferred branch of engineering: civil
 DAN GOMEZ
 
 WARWICK MCLEAN
