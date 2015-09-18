@@ -5,3 +5,6 @@ MASON SI
 DAN GOMEZ
 
 WARWICK MCLEAN
+Brief Description: First year eng-arts student from Tasmania
+Role in Project: Equal member of team, workload is shared
+Preferred stream: ECSE
