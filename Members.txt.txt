@@ -1,4 +1,4 @@
-LIST OF MEMBERS IN TEAM 039
+﻿LIST OF MEMBERS IN TEAM 039
 
 MASON SI
 I am mason!
@@ -8,3 +8,7 @@ DAN GOMEZ
 i have no pets
 
 WARWICK MCLEAN
+
+Brief Description: First year eng-arts student from Tasmania.
+Role in Project: Equal member of team, workload is shared.
+Preferred stream: ECSE.
